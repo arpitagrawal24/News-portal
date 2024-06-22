@@ -11,7 +11,11 @@ A React-based news portal application that allows users to browse news articles,
 
 ## Demo
 
-[![Watch the demo video](src/assets/video-thumbnail.png)](src/assets/News%20Portal.mp4)
+Watch the demo video
+
+https://github.com/arpitagrawal24/News-portal/assets/78686299/5e117b75-3b50-4ac7-8bea-34e5915a5a6d
+
+
 
 Click the thumbnail above to watch the demo video or [click here](src/assets/News%20Portal.mp4) to view it directly.
 
